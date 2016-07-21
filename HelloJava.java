@@ -10,7 +10,7 @@ public static void main(String[] args)
   {
 	  for(int k=j;k<50;k++)
 	  {
-		  System.out.print(" $1 ");
+		  System.out.print(" $2 ");
 	  }
 		System.out.print("\n");  
   }
